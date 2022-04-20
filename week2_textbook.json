@@ -1,0 +1,7 @@
+  let textbook={
+  "title": "Discrete Mathematics and Its Applications",
+  "author": "Kenneth H. Rosen",
+  "publisher": "McGraw-Hill",
+  "Edition": 5,
+  "number_of_contents": 13
+  }
